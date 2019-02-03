@@ -10,7 +10,6 @@ def using_pop(pop)
   pop.pop
 end
 
-def pop_with_args(one, two)
-  one.pop(two)
-
+def pop_with_args(one)
+  one.pop(2)
 end
