@@ -13,3 +13,8 @@ end
 def pop_with_args(one)
   one.pop(2)
 end
+
+def using_shift(one)
+  one.shift
+  
+end
