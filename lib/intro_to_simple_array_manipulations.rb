@@ -16,5 +16,5 @@ end
 
 def using_shift(one)
   one.shift
-  
+
 end
