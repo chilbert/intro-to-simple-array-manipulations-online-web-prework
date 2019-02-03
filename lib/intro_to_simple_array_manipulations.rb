@@ -20,5 +20,4 @@ end
 
 def shift_with_args(one)
   one.shift(2)
-  
 end
