@@ -21,3 +21,7 @@ end
 def shift_with_args(one)
   one.shift(2)
 end
+
+def using_concat(one, two)
+  one.concat(two)
+end
