@@ -36,5 +36,13 @@ end
 
 def using_flatten(one)
   one.flatten
+end
+
+def using_delete (one, two)
+  one.delete(two)
+end
+
+def using_delete_at(one, two)
+  one.delete
 
 end
