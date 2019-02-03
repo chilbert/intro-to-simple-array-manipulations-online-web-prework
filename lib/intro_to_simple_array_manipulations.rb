@@ -28,5 +28,5 @@ end
 
 def using_insert(one, two)
   one.insert(two)
-  
+
 end
