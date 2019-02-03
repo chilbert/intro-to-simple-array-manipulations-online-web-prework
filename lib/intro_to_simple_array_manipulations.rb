@@ -36,5 +36,5 @@ end
 
 def using_flatten(one)
   one.flatten
-  
+
 end
