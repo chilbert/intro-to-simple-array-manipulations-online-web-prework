@@ -44,5 +44,4 @@ end
 
 def using_delete_at(one, two)
   one.delete_at(two)
-
 end
